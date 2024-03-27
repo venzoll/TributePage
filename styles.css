@@ -1,0 +1,30 @@
+img {
+  max-width: 100%;
+  height: auto;
+
+  display: block;
+  align-items: center;
+}
+
+body {
+  background-color: gray;
+}
+
+main {
+  background-color: lightgray;
+  display: block;
+  justify-content: center;
+}
+#tribute-info {
+  padding: 10px 200px;
+}
+
+#img-div {
+  margin: 50px;
+  padding: 50px;
+  background-color: white;
+}
+
+#header {
+  margin: auto;
+}
